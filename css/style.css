@@ -1,0 +1,172 @@
+.main-fix{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    background-color: #1a1a1a;
+    height: 62px;
+}
+.text-nav{
+    color: white;
+    padding-top: 10px;
+}
+.text-nav-active{
+    color: rgb(255, 174, 0);
+    padding-top: 10px;
+}
+.text-nav:hover{
+    padding-top: 10px;
+    color: rgb(255, 174, 0);
+}
+.text-nav-log{
+    color: white;
+    padding-top: 10px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-color: #333333;
+}
+.search-input{
+    height: 30px;
+}
+.search-i{
+    color: white;
+}
+.bg-img{
+    background-image: url(../img/newyear.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-h{
+    color:  rgb(255, 174, 0);
+    text-align: center;
+    padding-top: 20px;
+}
+.border-main{
+    border-bottom: 2px solid #ffffff;
+    width: 100px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.text-hp{
+    color: #ffffff;
+    padding-top: 20px;
+    text-align: center;
+}
+.text{
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+}
+.padding-text{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.grid-main-gallery{
+    display: grid;
+    grid-gap: 10px;
+}
+.item-1 {
+    grid-column: 1/ span 2;
+    grid-row: 1;
+}
+.item-2 {
+    grid-column: 3;
+    grid-row: 1/ span 2;
+}
+.item-3 {
+    grid-column: 1;
+    grid-row: 2;
+}
+.item-4 {
+    grid-column: 2;
+    grid-row: 2;
+}
+.item-5 {
+    grid-column: 1/ span 2;
+    grid-row: 3/ span 2;
+}
+.item-6 {
+    grid-column: 3;
+    grid-row: 3;
+}
+.item-7 {
+    grid-column: 3;
+    grid-row: 4;
+}
+.item-8 {
+    grid-column: 2/span 2;
+    grid-row: 5;
+}
+.item-9 {
+    grid-column: 1;
+    grid-row: 5;
+}
+.item-10 {
+    grid-column: 1/span 2;
+    grid-row: 6;
+}
+.item-11 {
+    grid-column: 3;
+    grid-row: 6/span 2;
+}
+.item-12 {
+    grid-column: 1;
+    grid-row: 7;
+}
+.item-13 {
+    grid-column: 2;
+    grid-row: 7/span 2;
+}
+.item-14 {
+    grid-column: 1;
+    grid-row: 8/span 2;
+}
+.item-15 {
+    grid-column: 3;
+    grid-row: 8;
+}
+.item-16 {
+    grid-column: 3;
+    grid-row: 9;
+}
+.item-17 {
+    grid-column: 2/span 2;
+    grid-row: 9/span 2;
+}
+.item-18 {
+    grid-column: 1;
+    grid-row: 11;
+}
+.item-19 {
+    grid-column: 3;
+    grid-row: 11;
+}
+.item-20 {
+    grid-column: 2;
+    grid-row: 11;
+}
+.item-21 {
+grid-column: 1;
+grid-row: 10;
+}
+.icon-contact{
+    color: rgba(255, 255, 255, 0.493);
+    text-align: center;
+}
+.icon-contact:hover{
+    color: rgb(255, 174, 0);
+}
+.contact{
+    height: 100px;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.493);
+}
+.text-contact{
+    padding-left: 290px;
+}
